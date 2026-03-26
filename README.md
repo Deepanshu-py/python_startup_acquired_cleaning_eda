@@ -49,7 +49,7 @@ Startup_Acquisition_Analysis/
 
 │── startup_acquired_project.ipynb
 
-│── dataset.csv
+│── dataset
 
 │── README.md
 
